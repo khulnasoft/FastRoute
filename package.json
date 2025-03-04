@@ -1,7 +1,7 @@
 {
   "name": "fastroute",
   "description": "Fast, unopinionated, minimalist web framework",
-  "version": "5.0.1",
+  "version": "1.0.0",
   "author": "Md Sulaiman <dev.sulaiman@icloud.com>",
   "license": "MIT",
   "repository": "khulnasoft/fastroute",
@@ -70,7 +70,7 @@
   "files": [
     "LICENSE",
     "History.md",
-    "Readme.md",
+    " README.md",
     "index.js",
     "lib/"
   ],

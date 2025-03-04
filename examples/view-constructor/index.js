@@ -36,9 +36,9 @@ app.get('/', function(req, res){
   res.render('examples/markdown/views/index.md', { title: 'Example' });
 });
 
-app.get('/Readme.md', function(req, res){
-  // rendering a view from https://github.com/khulnasoft/fastroute/blob/master/Readme.md
-  res.render('Readme.md');
+app.get('/ README.md', function(req, res){
+  // rendering a view from https://github.com/khulnasoft/fastroute/blob/master/ README.md
+  res.render(' README.md');
 });
 
 /* istanbul ignore next */

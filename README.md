@@ -146,10 +146,6 @@ tests, triaging incoming pull requests and issues, and more!
 
 See the [Contributing Guide](Contributing.md) for more technical details on contributing.
 
-### Security Issues
-
-If you discover a security vulnerability in Fastroute, please see [Security Policies and Procedures](Security.md).
-
 ### Running Tests
 
 To run the test suite, first install the dependencies:
